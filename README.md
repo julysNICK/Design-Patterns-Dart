@@ -22,4 +22,4 @@ repository created to show some examples of design patterns with dart
 
 ## Behavioural
 ### `strategy`
-![](/public/Strategy.png.png)
+![](/public/Strategy.png)
