@@ -1,10 +1,10 @@
 class SingletonExample {
-  static SingletonExample _instance = new SingletonExample._internal();
+  static SingletonExample? _instance;
   static SingletonExample get instance {
     if (_instance == null) {
       _instance = SingletonExample._internal();
     }
-    return _instance;
+    return _instance!;
   }
 
   SingletonExample._internal();
