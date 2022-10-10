@@ -19,3 +19,7 @@ repository created to show some examples of design patterns with dart
 ## Behavioural
 ### `template`
 ![](/public/template.png)
+
+## Behavioural
+### `strategy`
+![](/public/Strategy.png.png)
